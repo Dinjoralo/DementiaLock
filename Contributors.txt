@@ -1,4 +1,6 @@
-Owner:
-Corey
+Contributors Leaderboard - generated 2026-07-09 17:08:04
 
-Contributors
+Rank  Contributor         Voicelines
+------------------------------------
+1     Corey Rigney        32  #########################
+2     Mogo-Mogo           6  ######
